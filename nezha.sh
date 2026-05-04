@@ -4,9 +4,9 @@
 # 支持哪吒v0/v1，自动识别架构
 
 # ========== 配置区 ==========
-NEZHA_SERVER="你的哪吒域名/IP"
+NEZHA_SERVER="nz.nhb789.de5.net:53503"
 NEZHA_PORT="哪吒端口，v1留空"
-NEZHA_KEY="你的哪吒密钥"
+NEZHA_KEY="NSjQd2XP0QnQhVEgglxP7vhS80PoxSvf"
 UUID="9afd1229-b893-40c1-84dd-51e7ce204913"
 INSTALL_DIR="/opt/nezha"
 # ============================
